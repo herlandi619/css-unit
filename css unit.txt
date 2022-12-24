@@ -1,0 +1,39 @@
+CSS VALUE ( % ) VS CSS UNIT ( PX )
+
+>>>>>>>>>>> CSS VALUE <<<<<<<<<<<<<<
+- integer
+- number 
+- percenetage 
+- dimension
+	^length ( Absolut , relativ )
+		-absolut unit (px,pt,pc,cm,mm,in)
+		-relativ  (%,em,rem,ch,vh,vw,vmin,vmax)
+	^angel satuanya (deg,rad,grad,turn)
+	^time satuanya ( s,ms )
+	^resolution satuanya ( dpi,dpcm,dppx)
+
+
+>>>>>>>>>>> viewport units <<<<<<<<<<<<<<<<
+
+-vh : Relatif terhadapt tinggi dari viewport
+-vw : relatif terhadap lebar dari viewport
+-vmin : relatif terhadap dimensi terkecil sebuah viewport
+-vmax : relatif terhadap dimensi terbesar sebuah viewport
+
+
+>>>>>>>>>>>>>> KALKULASI CALC()<<<<<<<<<<<<<<<<<<
+
+Calc() : fungsi pada css yang memungkikan kita untuk melakukan operasi 
+matematika/kalkulasi pada nilai dari sebuah properti.
+
+calc() : <length>, <angle> , <time> , <percentage>, <number>
+contoh >>Penjumlahan Width : calc(10px + 100px);
+	>> Pengurangan Width : calc(100% - 30px);
+
+
+
+
+
+
+
+
